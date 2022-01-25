@@ -1,3 +1,5 @@
+Vaja13-7segment-STM32L1
+
 V Pinout & Configuraton pogledu glede na vašo razvojno ploščico postavite 7 prvih prostih pinov skupine A na GPIO_Output. Pine označite (label) s črkami segmenta: a, b, c, d, e, f in g.
 Zapišite izbrane (konfigurirane) pine: Segment a: PA1_ Segment b: PA2__ Segment e: PA5_
 Segment c: PA3_ Segment f: PA6
